@@ -1,0 +1,32 @@
+[
+  {
+    "query": "how much rows and columns are in it",
+    "answer": "There are 3 rows and 15 columns in the provided data.",
+    "sources": []
+  },
+  {
+    "query": "what is supervised machine learning?",
+    "answer": "I'm sorry, but I don't have information about supervised machine learning in the context provided. The context only contains air quality data for specific cities and dates.",
+    "sources": []
+  },
+  {
+    "query": "what is supervised and unsupervised machine learning?",
+    "answer": "I'm sorry, but the provided context does not contain information about supervised and unsupervised machine learning. It only contains air quality data for Gurugram.",
+    "sources": []
+  },
+  {
+    "query": "what is supervised and unsupervised machine learning?",
+    "answer": "I don't know the answer to that question based on the provided context. The context contains air quality data for Gurugram, not definitions of machine learning concepts.",
+    "sources": []
+  },
+  {
+    "query": "what is bias-variance tradeoff?",
+    "answer": "The bias-variance tradeoff refers to the balance between two types of errors in a machine learning model:\n\n*   **Bias:** This is the error due to erroneous or overly simplistic assumptions in the learning algorithm. High bias can lead to the model **underfitting** the data, meaning it struggles to capture the underlying patterns, resulting in low predictive accuracy and poor generalization from the training set to the test set.\n*   **Variance:** This is the error due to too much complexity in the learning algorithm. High variance leads to the algorithm being highly sensitive to the training data, potentially capturing noise as if it were a pattern. This can result in the model **overfitting** the training data, performing well on it but poorly on new, unseen data.\n\nThe \"trade-off\" means that typically, reducing one type of error tends to increase the other. A model that is too simple (high bias) will underfit, while a model that is too complex (high variance) will overfit. The goal is to find an optimal balance between bias and variance to achieve the best predictive accuracy and generalization performance.",
+    "sources": []
+  },
+  {
+    "query": "what is bias-variance tradeoff?",
+    "answer": "The bias-variance tradeoff refers to the balance between two types of errors in a machine learning model:\n\n*   **Bias:** This is the error due to erroneous or overly simplistic assumptions in the learning algorithm. High bias can lead to the model **underfitting** the data, meaning it struggles to capture the underlying patterns, resulting in low predictive accuracy and poor generalization from the training set to the test set.\n*   **Variance:** This is the error due to too much complexity in the learning algorithm. High variance leads to the algorithm being highly sensitive to the training data, potentially capturing noise as if it were a pattern. This can result in the model **overfitting** the training data, performing well on it but poorly on new, unseen data.\n\nThe \"trade-off\" means that typically, reducing one type of error tends to increase the other. A model that is too simple (high bias) will underfit, while a model that is too complex (high variance) will overfit. The goal is to find an optimal balance between bias and variance to achieve the best predictive accuracy and generalization performance.",
+    "sources": []
+  }
+]
